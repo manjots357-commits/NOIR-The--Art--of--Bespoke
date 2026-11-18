@@ -1,0 +1,6 @@
+{
+  "name": "NOIRÉ — The Art of Bespoke",
+  "description": "Award-winning luxury menswear and bespoke tailoring house featuring cinematic 3D exploded garment engineering and full-canvas craftsmanship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
